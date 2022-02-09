@@ -1,0 +1,20 @@
+#Biggest of two numbers
+ 
+ num1 = int(input("Enter first number: "))      
+ num2 = int(input("Enter second number: ")) 
+ if num1 >= num2:   
+ if num1 == num2:    
+     print("Both numbers are equal.")       
+ else:  
+     print("Fisrt number is greaterthan the second number")
+ else:   
+     print("Second number is greaterthan the First number") 
+     
+     
+     
+     OUTPUT:
+     Enter first number: 20
+     Enter second number: 25
+     Second number is greaterthan the first number
+     
+     
